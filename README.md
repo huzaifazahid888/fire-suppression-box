@@ -42,7 +42,7 @@ Just PCB photos and this overview. Design files, schematics, firmware source, ma
 ![Bottom View](./bottom.png)
 
 **2D View**
-![2D View](./2D.png)
+![2D View](./2d.png)
 
 <!--
 *(A photo of the assembled hardware will be added here later.)*
