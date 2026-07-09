@@ -35,8 +35,18 @@ Just PCB photos and this overview. Design files, schematics, firmware source, ma
 
 ## Images
 
-*(PCB photos go here)*
+**Top layer**
+![Top View](./top.png)
 
+**Bottom layer**
+![Bottom View](./bottom.png)
+
+**2D View**
+![2D View](./2D.png)
+
+<!--
+*(A photo of the assembled hardware will be added here later.)*
+-->
 ## Disclaimer
 
 This repo is a high-level overview of engineering work I did as part of a professional project. All proprietary implementation details stay confidential and aren't included here.
