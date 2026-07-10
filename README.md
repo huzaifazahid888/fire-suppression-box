@@ -2,7 +2,7 @@
 
 A four-layer PCB I designed for an embedded fire detection and suppression system used in a vehicle's engine compartment. The board monitors multiple sensors in real time and runs the decision logic that triggers the suppression system when a fire condition is actually confirmed.
 
-> Note: this repo is meant as a technical case study. Design files, schematics, PCB layouts, and firmware are not included, this project falls under a confidentiality agreement.
+> Note: this repo is meant as a technical case study. Design files, schematics files, and firmware are not included, this project falls under a confidentiality agreement.
 
 ## What it does
 
